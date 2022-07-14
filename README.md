@@ -14,6 +14,7 @@
   ### Usage
   Fork the repo and clone into your local device to start using the files. First, create the database in mySQL, then create the tables and then seed the tables with the data. View the demo video below for a guide on all three of those steps. To run the program, first install the necessary dependencies, shown above, then run the following command in your terminal:
   `npm run watch`.
+  
   Click [here](https://drive.google.com/file/d/1Q-SiV-bwHzu4gs3of6QgcFHbizdkEDLa/view?usp=sharing) to watch a demo video demonstrating how this program works 
   
   ### License
